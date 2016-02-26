@@ -30,7 +30,7 @@ _Call the plugin_:
 _Resulting Markup_:
 ```
 <div id='smaller-image'><img src='img/small-img.jpg'/></div>
-<div id='large-image'><img src='img/large-img.jpg'/></div>
+<div id='large-image' style='position:relative;overflow:hidden;'><img src='img/large-img.jpg' style='position:relative;'/></div>
 ```
 _On Hover_:
 
