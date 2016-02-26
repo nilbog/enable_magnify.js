@@ -35,3 +35,8 @@ _Resulting Markup_:
 _On Hover_:
 
 ![image](http://i64.tinypic.com/zwb4vr.png)
+
+## Notes
+The larger image container must have a height and width specified in the CSS. This is one of the purposes of the lg_container_id.
+
+This plugin should work for any two images, as long as the 'larger image' _is_ actually larger than the original image (it doesn't matter if it's 1000px larger or 2px larger, it just needs to be larger).
