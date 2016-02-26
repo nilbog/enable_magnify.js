@@ -36,6 +36,7 @@ _On Hover_:
 
 ![image](http://i64.tinypic.com/zwb4vr.png)
 
+---
 ## Notes
 The larger image container must have a height and width specified in the CSS. This is one of the purposes of having the plugin assign a `lg_container_id`.
 
