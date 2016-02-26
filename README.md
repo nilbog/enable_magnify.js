@@ -1,7 +1,7 @@
 # Enable_Magnify.js
 
 ### Description
-**_Enable_Magnify.js_** is a lightweight jQuery plugin that allows for magnifying an image on hover.
+**_Enable_Magnify.js_** is a lightweight (<0.5kb minified) jQuery plugin that allows for magnifying an image on hover.
 
 ## Usage
 The `enable_magnify( )` plugin takes two arguments:
