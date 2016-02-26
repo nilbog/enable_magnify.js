@@ -32,5 +32,6 @@ _Resulting Markup_:
 <div id='smaller-image'><img src='img/small-img.jpg'/></div>
 <div id='large-image'><img src='img/large-img.jpg'/></div>
 ```
+_On Hover_:
 
 ![image](http://i64.tinypic.com/zwb4vr.png)
