@@ -11,9 +11,9 @@ The `enable_magnify( )` plugin takes two arguments:
 |lg_img_src | String | The source of the larger image|
 |lg_container_id | String | The ID name you want to use for the container _(optional - defaults to 'magnify')_|
 
-A div with the specified ID (lg_container_id) containing the larger image (lg_img_src) will be inserted after the element the plugin is called on.
+A div with the specified ID (lg_container_id) containing the larger image (lg_img_src) will be inserted after the element the plugin is called on and hides it to begin with.
 
-When the user then hovers over the small image, the plugin calculates the sizing and positioning of the small and large images in relation to location of the mouse and adjusts the position of the large image accordingly within its container.
+When the user then hovers over the small image, larger image container becomes visible. The plugin calculates the sizing and positioning of the small and large images in relation to location of the mouse and adjusts the position of the large image accordingly within its container.
 
 ---
 ### Example
