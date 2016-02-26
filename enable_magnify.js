@@ -4,7 +4,7 @@ $.fn.enable_magnify=function(lg_img_src, lg_container_id){
 		lg_container_id = lg_container_id || 'magnify',
 		$lg_container,
 		$lg_img;
-	$sm_img_container.after('<div id="'+lg_container_id+'"><img src="'+lg_img_src+'" style="position:relative;"/></div>');
+	$sm_img_container.after('<div id="'+lg_container_id+'" style="position:relative;overflow:hidden;"><img src="'+lg_img_src+'" style="position:relative;"/></div>');
 		$lg_container=$('#'+lg_container_id);
 		$lg_img = $('#'+lg_container_id+' img');
 	$lg_container.hide();
