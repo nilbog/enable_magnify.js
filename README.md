@@ -5,6 +5,7 @@
 
 ## Usage
 The `enable_magnify( )` plugin takes two arguments:
+
 | Name | Function |
 |--- | --- |
 |lg_img_src | The source of the larger image|
